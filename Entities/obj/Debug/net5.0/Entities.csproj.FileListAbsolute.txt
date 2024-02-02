@@ -1,0 +1,11 @@
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Entities\obj\Debug\net5.0\refint\Entities.dll
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Entities\obj\Debug\net5.0\ref\Entities.dll

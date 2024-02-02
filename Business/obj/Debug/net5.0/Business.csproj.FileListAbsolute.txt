@@ -1,0 +1,17 @@
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Business\bin\Debug\net5.0\Business.dll
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Business\bin\Debug\net5.0\DataAccess.dll
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Business\bin\Debug\net5.0\Entities.dll
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Business\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Business\bin\Debug\net5.0\Entities.pdb
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Business\obj\Debug\net5.0\Business.dll
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Business\obj\Debug\net5.0\refint\Business.dll
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\yasingoktepe\Desktop\Projects\MyFinalProject\Business\obj\Debug\net5.0\ref\Business.dll
